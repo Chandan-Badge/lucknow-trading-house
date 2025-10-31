@@ -1,11 +1,3 @@
-/**
-* Template Name: Visible
-* Template URL: https://bootstrapmade.com/visible-bootstrap-agency-template/
-* Updated: May 22 2025 with Bootstrap v5.3.6
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 (function() {
   "use strict";
 

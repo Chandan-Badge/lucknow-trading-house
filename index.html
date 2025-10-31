@@ -9,8 +9,8 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <!-- <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+  <link href="assets/img/logo22.jpg" rel="icon">
+  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -43,33 +43,7 @@
     to { border-color: transparent; }
   }
   </style>
-  <script>
-    (function() {
-      var text = 'LUCKNOW TRADING HOUSE';
-      var i = 0;
-      var speed = 110; // typing speed in ms
-      var loader = document.getElementById('typing-loader');
-      var typingText = document.getElementById('typing-text');
-      document.body.style.overflow = 'hidden';
-      function typeChar() {
-        if (i <= text.length) {
-          typingText.textContent = text.substring(0, i);
-          i++;
-          setTimeout(typeChar, speed);
-        } else {
-          setTimeout(function() {
-            loader.style.opacity = 0;
-            loader.style.transition = 'opacity 0.5s';
-            setTimeout(function() {
-              loader.style.display = 'none';
-              document.body.style.overflow = '';
-            }, 500);
-          }, 650);
-        }
-      }
-      window.addEventListener('DOMContentLoaded', typeChar);
-    })();
-  </script>
+  <script src="./script.js" defer></script>
 
   <header id="header" class="header d-flex align-items-center position-relative">
     <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
