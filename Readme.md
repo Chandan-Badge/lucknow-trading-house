@@ -1,1 +1,3 @@
 # Lucknow Trading House
+
+Not being a regular "course selling institute", Lucknow Trading House is an initiative to impart financial empowerment to all. Our Aim is to empower you with in depth knowledge and hands on exposure to market segments, so that you can unlock your full trading potential. And then we can say togather........
